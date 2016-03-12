@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
@@ -14,7 +14,7 @@ markdown: kramdown
 title : Jekyll Bootstrap-3
 tagline: Site Tagline
 author :
-  name : Dmitry L.
+  name : Dmitry K.
   email : s--m--i--l--e@yandex.ru
   github : dmitryint
 
